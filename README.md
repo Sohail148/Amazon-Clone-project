@@ -7,7 +7,7 @@ i created the amazon.com clone using html and css for now , will add javascript 
 Welcome to the Amazon Clone project! This repository is a meticulous recreation of the Amazon.com homepage, crafted with the primary objective of honing web development skills, particularly in HTML and CSS. The endeavor involves an in-depth study of Amazon's homepage design, replicating every aspect to deliver an authentic user experience.
 
 ## Preview
-1. [Screenshot 2024-03-09 202022](https://github.com/Sohail148/Amazon-Clone-project/assets/146368003/11360f49-28de-451b-a22d-a61a86f157ce)
+1. ![Screenshot 2024-03-09 202022](https://github.com/Sohail148/Amazon-Clone-project/assets/146368003/11360f49-28de-451b-a22d-a61a86f157ce)
 2.![Screenshot 2024-03-09 202044](https://github.com/Sohail148/Amazon-Clone-project/assets/146368003/a84a06a0-6684-471e-94e5-0504bffd95cf)
 3.
 ![Screenshot 2024-03-09 202111](https://github.com/Sohail148/Amazon-Clone-project/assets/146368003/290b5d8b-6249-4bba-9b84-b75b96f66c3a)
